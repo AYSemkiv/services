@@ -1,1 +1,10 @@
-
+body {background-color: #0b0c0d;}
+txt {font-weight: bold;}
+.center {
+  display: block;
+  text-align: center;}
+.center {color: #f0f0f0;}
+.center {font-size: 50px;}
+.e {font-family: Handlee;}
+.e {color: #f0f0f0;}
+.e {font-size: 30px;}
